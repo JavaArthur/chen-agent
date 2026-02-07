@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "skills": {
+    "git-essentials": {
+      "version": "1.0.0",
+      "installedAt": 1770043207023
+    },
+    "github-action-gen": {
+      "version": "1.0.2",
+      "installedAt": 1770043215576
+    },
+    "docker-essentials": {
+      "version": "1.0.0",
+      "installedAt": 1770043217404
+    },
+    "ai-code-review": {
+      "version": "1.0.1",
+      "installedAt": 1770043225739
+    },
+    "ai-explain": {
+      "version": "1.0.1",
+      "installedAt": 1770043227728
+    },
+    "vercel": {
+      "version": "1.0.1",
+      "installedAt": 1770043229730
+    },
+    "test-master": {
+      "version": "0.1.0",
+      "installedAt": 1770043238631
+    },
+    "ai-dockerfile": {
+      "version": "1.0.1",
+      "installedAt": 1770043241003
+    },
+    "coding-agent": {
+      "version": "1.0.1",
+      "installedAt": 1770043242857
+    }
+  }
+}
